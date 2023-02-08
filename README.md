@@ -21,7 +21,7 @@ _Create a GitHub Action and use it in a workflow._ :)
 <!--step0-->
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
-
+:)
 - **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
 - **What you'll learn**: How to create workflow files, trigger workflows, and find workflow logs.
 - **What you'll build**: An Actions workflow that will check emoji shortcode references in Markdown files.
@@ -29,7 +29,7 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
 - **How long**: This course is five steps long and can be finished in less than two hours.
 
 ## How to start this course
-
+:)
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
 2. In the new tab, follow the prompts to create a new repository.
